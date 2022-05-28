@@ -1,2 +1,2 @@
 # janjitemu
-Janji Temu (BPN Batam)
+Janji Temu (BPN)
